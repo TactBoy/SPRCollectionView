@@ -1,5 +1,7 @@
 # ios-spring-shrink-move-expand-collectionView
----iOS:使用CollectionView实现Wallet效果 
+---
+iOS:使用CollectionView实现Wallet效果 
+---
 ## 实现的效果
 
 ![](https://github.com/TactBoy/ios-spring-shrink-move-expand-collectionView/raw/master/效果.gif)     
