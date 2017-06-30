@@ -9,14 +9,12 @@ iOS:使用CollectionView实现Wallet效果
 
   注释掉这行代码,效果就会很明显
   
-  `- (void)displayLinkAction:(CADisplayLink *)link {
-    ...
-        if (self.isMoveing) {
+   ```
+    if (self.isMoveing) {
         return;
     }
-    ...
-  }`
-  
+   ```
+ 
 * 点击`cell`打开时,其他`cell`收起来的动画会很突兀.
 
 **如果有什么好的解决方案, 欢迎提交pull request, 或者来[简书](http://www.jianshu.com/p/b0fa1daa8665)一起讨论**
