@@ -1,4 +1,6 @@
 language: objective-c
 xcode_project: SpringUICollectionView.xcodeproj
 xcode_scheme: SpringUICollectionView
+script:
+- xcodebuild -project SpringUICollectionView.xcodeproj -target SpringUICollectionView -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
 
