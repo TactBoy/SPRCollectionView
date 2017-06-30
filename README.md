@@ -1,4 +1,8 @@
-# ios-spring-shrink-move-expand-collectionView
+# ios-spring-shrink-move-expand-collectionView 
+
+[![Support](https://img.shields.io/badge/platform-iOS8%2B-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
+
+
 
 iOS:使用CollectionView实现Wallet效果 
 
