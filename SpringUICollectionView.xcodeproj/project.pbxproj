@@ -220,7 +220,6 @@
 				TargetAttributes = {
 					86FF66051F0258BB007240F8 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = FVGF2WU8U4;
 						ProvisioningStyle = Automatic;
 					};
 					86FF661E1F0258BB007240F8 = {
@@ -441,7 +440,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FVGF2WU8U4;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = SpringUICollectionView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = gavin.SpringUICollectionView;
@@ -453,7 +452,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FVGF2WU8U4;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = SpringUICollectionView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = gavin.SpringUICollectionView;
@@ -526,6 +525,7 @@
 				86FF66351F0258BC007240F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		86FF66361F0258BC007240F8 /* Build configuration list for PBXNativeTarget "SpringUICollectionViewTests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +534,7 @@
 				86FF66381F0258BC007240F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		86FF66391F0258BC007240F8 /* Build configuration list for PBXNativeTarget "SpringUICollectionViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -542,6 +543,7 @@
 				86FF663B1F0258BC007240F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
