@@ -1,4 +1,4 @@
 language: objective-c
-xcode_project: SpringUICollectionView
+xcode_project: SpringUICollectionView.xcodeproj
 xcode_scheme: SpringUICollectionView
 
